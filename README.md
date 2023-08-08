@@ -12,3 +12,6 @@
 ![image](https://github.com/insile/Obsidian-words-vault/assets/39241051/885e77f1-4519-4d2f-a1d2-e7ffaac445d0)
 
 ![image](https://github.com/insile/Obsidian-words-vault/assets/39241051/b62cf6d3-34ce-494b-9390-45b8b7be4ff1)
+
+# Obsidian-Python-vault
+![image](https://github.com/insile/Obsidian-notes-vault/assets/39241051/d5bb8129-b52e-416a-b7c3-ca82e34a9d90)
