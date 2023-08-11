@@ -1,5 +1,5 @@
 # Obsidian-notes-vault
-- 这是一个存放我Obsidian笔记的仓库，希望能对大家有帮助
+- 这是一个存放我Obsidian笔记的仓库，希望能对大家有帮助，详细请看各库文件夹内的说明
 ## Obsidian-words-vault 单词库
 
 - 单词范围: 四级、六级、考研 （[mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists)）
