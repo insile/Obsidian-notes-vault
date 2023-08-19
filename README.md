@@ -8,10 +8,7 @@
   - 插件修补:
   - https://www.jianshu.com/p/c5f3a0c3e66c
   - https://github.com/zhao414/obsidian-query-control/releases/tag/0.5_fix_fix_for_Obsidian_1.2.5
-
-![image](https://github.com/insile/Obsidian-words-vault/assets/39241051/187d2a38-7af7-41dd-afbb-c740b5d62273)
-
-![image](https://github.com/insile/Obsidian-words-vault/assets/39241051/885e77f1-4519-4d2f-a1d2-e7ffaac445d0)
+- 英语语法
 
 ![image](https://github.com/insile/Obsidian-words-vault/assets/39241051/b62cf6d3-34ce-494b-9390-45b8b7be4ff1)
 
