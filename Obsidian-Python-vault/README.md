@@ -1,3 +1,4 @@
+##### Obsidian-Python-vault
 - 1.1
   - 增加相对引用说明
   	- 涉及 [[import]]，[[from]]，[[as]]
@@ -13,3 +14,5 @@
 - 1.3
 	- 增加部分标准库文档
 	- 修改内容引用至标准库，如协程，文件对象
+##### Obsidian-第三方库-vault
+- numpy, pandas
