@@ -9,5 +9,5 @@
     - https://github.com/zhao414/obsidian-query-control/releases/tag/0.5_fix_fix_for_Obsidian_1.2.5
 - 1.2
   - 增加英语语法
-- 1.3
+- 1.3 1.4
   - 修改英语语法
