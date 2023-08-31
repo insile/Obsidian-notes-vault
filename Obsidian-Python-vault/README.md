@@ -14,5 +14,6 @@
 - 1.3
 	- 增加部分标准库文档
 	- 修改内容引用至标准库，如协程，文件对象
-##### Obsidian-第三方库-vault
-- numpy, pandas
+- 1.4
+	- numpy, pandas
+- 增加爬虫相关
