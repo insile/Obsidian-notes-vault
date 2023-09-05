@@ -8,11 +8,12 @@
   - [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists)
   - https://github.com/kajweb/dict
 - 单词内容: 音标、词义、例句、词形 （百度翻译）
+- 英语语法：个人经验+chatgpt
 - 搜索内容渲染插件: https://github.com/nothingislost/obsidian-query-control
   - 插件修补:
   - https://www.jianshu.com/p/c5f3a0c3e66c
   - https://github.com/zhao414/obsidian-query-control/releases/tag/0.5_fix_fix_for_Obsidian_1.2.5
-- 英语语法
+
 ![image](https://github.com/insile/Obsidian-notes-vault/assets/39241051/70b03928-df65-42a1-a4c4-8a485d10bb83)
 ![image](https://github.com/insile/Obsidian-notes-vault/assets/39241051/2cb9f992-2236-4978-a99a-a8abab97932b)
 
