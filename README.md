@@ -1,6 +1,8 @@
 # Obsidian-notes-vault
 - 这是一个存放我Obsidian笔记的仓库，希望能对大家有帮助，详细请看各库文件夹内的说明
 - 本人能力有限，肯定有很多错误或不准确的地方，希望大家仔细甄别
+- 新内容移步至隔壁仓库 https://github.com/insile/my-notes
+- 文档采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a> 进行许可
 ## Obsidian-English-vault 英语库
 
 - 单词范围:
